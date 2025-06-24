@@ -1,7 +1,11 @@
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
+react Native Starter
+   – Appwrite Auth & NativeWind A React Native starter template designed for scalable app development, featuring: 
+   -Authentication powered by Appwrite - Tailwind-style styling with NativeWind 
+   - Well-structured folder architecture for clean code organization
+   - Ready for rapid prototyping and scaling production apps
 ## Get started
 
 1. Install dependencies
